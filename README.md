@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, M Nawaz Khan here</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
-<img align="right"  width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9%2F68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&tbnid=55jyr3BK5duBpM&vet=12ahUKEwjEvanrr-D7AhUKShoKHRTEDxcQMygKegUIARCSAg..i&docid=CJdgcKdcN0j58M&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjEvanrr-D7AhUKShoKHRTEDxcQMygKegUIARCSAg" alt="Coding"/>
+<img src="https://dsm01pap001files.storage.live.com/y4mKXaUa7o33okskOM45fnF8Nj7fhVNQcW845-Y4VElEj-u2o9vSslxQ7jPo1T0Q0viHX2AF-gjbwtKTQtRGqEVGPmJcFdR4Tat4zvfeClVy-AUT7jqouSMAdM8W3sasmG_S7GtiyjgGYbyj5W-fQH9HmUQzsYVp9ec-nMoKI4I73gOqGjdVpVfVYEXBeEXYdZ5?width=800&height=600&cropmode=none" width="300" height="200" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaz393&label=Profile%20views&color=0e75b6&style=flat" alt="nawaz393" /> </p>
 
