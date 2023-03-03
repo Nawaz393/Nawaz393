@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawaz393" alt="nawaz393" /></a> </p>
 
-- 🌱 I’m currently learning phyton and Ml ****
+- 🌱 I’m currently learning **phyton and Ml**
 
 - 👨‍💻 All of my projects are available at [https://mnawazkhan.netlify.app/](https://mnawazkhan.netlify.app/)
 
