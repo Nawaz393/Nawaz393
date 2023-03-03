@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawaz393" alt="nawaz393" /></a> </p>
 
-- 🌱 I’m currently learning **React Native Node Js Mongo Db**
+- 🌱 I’m currently learning phyton and Ml ****
 
 - 👨‍💻 All of my projects are available at [https://mnawazkhan.netlify.app/](https://mnawazkhan.netlify.app/)
 
-- 💬 Ask me about **Java C Javascript React**
+- 💬 Ask me about **Java C Javascript React React Native Node Js express js Mongo Db**
 
 - 📫 How to reach me **mohdnawaz6393@gmail.com**
 
