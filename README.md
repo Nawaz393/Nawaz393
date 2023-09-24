@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **phyton and Ml**
 
-- 👨‍💻 All of my projects are available at [https://mnawazkhan.netlify.app/](https://m-nawa-z-khan.rocks/)
+- 👨‍💻 All of my projects are available at [https://m-nawa-z-khan.rocks/](https://m-nawa-z-khan.rocks/)
 
 - 💬 Ask me about **Java C Javascript React React Native Node Js express js Mongo Db**
 
