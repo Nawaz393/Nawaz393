@@ -26,4 +26,4 @@ I design and build production web/mobile ecosystems, database-level automation, 
 
 ---
 
-📫 **Connect with me on [LinkedIn](www.linkedin.com/in/mnawaz393)**
+📫 **Connect with me on [LinkedIn](www.linkedin.com/in/nawaz393)**
